@@ -170,7 +170,6 @@ background-color: #EB57F4;
   grid-column: 2/span 10; 
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows:1fr 0.25fr;
   grid-gap: 30px;
   text-align: center;
   font-family: 'Hanken Grotesk', san-serif;
